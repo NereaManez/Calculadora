@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="cab_acceso">Escribe tu nombre</string>
+    <string name="nombre">Nombre</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="op_des">Mostrar opciones deshabilitar</string>
+</resources>
